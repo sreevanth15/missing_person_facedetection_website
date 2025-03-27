@@ -25,8 +25,8 @@ This is a face recognition application built using Streamlit, YOLOv8, and MongoD
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/face-recognition-app.git
-   cd face-recognition-app
+   git clone https://github.com/sreevanth15/missing_person_facedetection_website.git
+   cd missing_person_facedetection_website
    ```
 
 2. Create a virtual environment and activate it:
